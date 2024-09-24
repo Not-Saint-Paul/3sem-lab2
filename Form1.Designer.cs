@@ -64,7 +64,7 @@ namespace _3sem_lab2
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(23, 120);
+            this.label3.Location = new System.Drawing.Point(23, 128);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(13, 13);
             this.label3.TabIndex = 2;
@@ -74,7 +74,7 @@ namespace _3sem_lab2
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(53, 193);
+            this.label4.Location = new System.Drawing.Point(23, 166);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(21, 13);
             this.label4.TabIndex = 3;
@@ -97,25 +97,25 @@ namespace _3sem_lab2
             // 
             // eInput
             // 
-            this.eInput.Location = new System.Drawing.Point(127, 137);
+            this.eInput.Location = new System.Drawing.Point(83, 125);
             this.eInput.Name = "eInput";
             this.eInput.Size = new System.Drawing.Size(100, 20);
             this.eInput.TabIndex = 6;
             // 
             // eNInput
             // 
-            this.eNInput.Location = new System.Drawing.Point(126, 190);
+            this.eNInput.Location = new System.Drawing.Point(83, 163);
             this.eNInput.Name = "eNInput";
             this.eNInput.Size = new System.Drawing.Size(100, 20);
             this.eNInput.TabIndex = 7;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(83, 323);
+            this.button1.Location = new System.Drawing.Point(26, 233);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 8;
-            this.button1.Text = "button1";
+            this.button1.Text = "Calculate!";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -137,7 +137,7 @@ namespace _3sem_lab2
             // 
             // resultat
             // 
-            this.resultat.Location = new System.Drawing.Point(191, 323);
+            this.resultat.Location = new System.Drawing.Point(171, 235);
             this.resultat.Name = "resultat";
             this.resultat.Size = new System.Drawing.Size(100, 20);
             this.resultat.TabIndex = 11;
